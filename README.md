@@ -1,6 +1,6 @@
 # 💫 About Me:
-Hi there, name's Egor
-Frontend Developer/System Engineer 
+**Hi there, name's Egor** :wave: <br/>
+I'm Frontend Developer/System Engineer 
 
 
 # 💻 Tech Stack:
