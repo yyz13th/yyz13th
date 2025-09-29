@@ -1,7 +1,7 @@
 # 💫 About Me:
 <div align="center">
 <h3>Hi there, name's Egor :wave: </h3>
-I'm Frontend Developer/System Engineer 
+DevOps Engineer/ Frontend Developer
 </div>
 
 
